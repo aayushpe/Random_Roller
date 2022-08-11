@@ -11,7 +11,6 @@ const espers_gold = [
     'Triki',
     'Hyde',
     'Biondina',
-    'Gabrielle',
     'Sally',
     'Ollie',
     'Lucas',
@@ -43,12 +42,9 @@ const espers_purple = [
     'Ren Si',
     'Long Mian',
     'Lynn',
-    'Dhalia',
     'Xie Chuyi',
     'Xie Yuzhi',
-    'Meredith',
     'Kaylee',
-    'Aurelius',
     'Stewart',
     'Xiao Yin'
 ];
@@ -93,7 +89,6 @@ const espers_purple_shimmer = [
 
 const espers_blue_shimmer = [
     'Q',
-    'Melanie',
     'Lauren',
     'Chalmers',
     'Layla'
